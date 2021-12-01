@@ -1,12 +1,14 @@
 
 title: <p align="center"> Abhishek Mishra </p>
-logo: /assets/img/logo.png
+logo: /assets/img/logo.jpg
+
 
 description:
   <p align="center">
-  <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/abhish-ek-mishra/">LinkedIn</a> |
   <a href="https://github.com/abhishek-vmishra">GitHub</a>
+  
+  
   
   <br>   
   I am a Freelance Computational Biologist.
@@ -17,6 +19,3 @@ description:
   <br>
   </p>
 
-
-
-theme: jekyll-theme-minimal
