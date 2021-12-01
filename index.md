@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Machine learning & AI in Computational Biology
+## Machine Learning & AI in Computational Biology
 
 
 ### Next Generation Sequencing Analysis
